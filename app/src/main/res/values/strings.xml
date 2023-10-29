@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="login">Login</string>
+    <string name="remember_my_login_information">remember my login information</string>
+    <string name="checkbox">com.houda.sharedpreferences.checkbox</string>
+    <string name="name">com.houda.sharedpreferences.name</string>
+    <string name="password">com.houda.sharedpreferences.password</string>
+</resources>
